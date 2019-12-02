@@ -1,5 +1,4 @@
 # -*- coding: UTF-8 -*-
-"""PyBank Homework Solution."""
 
 # Dependencies
 import csv

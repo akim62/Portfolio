@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hot Finds</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="jumbotron text-center">
+      <h1 style=>Hot Jobs on Glassdoor</h1>
+      <p><a class="btn btn-primary btn-lg" href="/scrape_glassdoor" role="button" style="background-color: limegreen;">Easy Jobs on Glassdoor!</a></p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6">
+        <h4 class="heading">{{listings.company}} {{listings.job}}</h4>
+        <small>{{listings.salary}} {{listings.city}} {{listings.easy}}</small>
+      </div>
+
+    <div class="jumbotron text-center">
+      <h1>Hot Jobs on Indeed</h1>
+      <p><a class="btn btn-primary btn-lg" href="/scrape_glassdoor" role="button" style="background-color: orange;">Easy Jobs on Indeed!</a></p>
+    </div>
+
+    <div class="col-md-6">
+      <h4 class="heading">{{listings.price}} {{listings.headline}}</h4>
+      <small>{{listings.salary}} {{listings.city}} {{listings.easy}}</small>
+    </div>
+  </div>
+
+    <!-- Craigslist Listings -->
+   
+
+    
+
+  </div>
+</body>
+
+</html>
+

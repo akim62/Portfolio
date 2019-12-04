@@ -1,4 +1,4 @@
-# UWeb Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
 ## Background
 
@@ -13,8 +13,6 @@ We'll be creating a visualization dashboard website using visualizations we've c
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Requirements
-
-For reference, see the ["Screenshots" section](#screenshots) below.
 
 The website must consist of 7 pages total, including:
 
@@ -44,7 +42,5 @@ The website must, at the top of every page, have a navigation menu that:
 ### Deployment
 
 * Download entire folder from GitHub
-
 * Click on any of the ".html" files in directory and it will direct you locally to that page in your web browser
-
 * You will be able to navigate the other six pages from there

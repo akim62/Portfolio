@@ -1,4 +1,4 @@
-# Unit 1 Homework: Kickstart My Chart
+# Kickstart My Chart
 
 ## Background
 
@@ -46,52 +46,10 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Now create a pivot chart line graph that visualizes this new table.
 
-* Create a report in Microsoft Word and answer the following questions.
+## Analysis
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
-2. What are some limitations of this dataset?
-3. What are some other possible tables and/or graphs that we could create?
+* One conclusion you can make about Kickstarter campaigns is that many of them aren’t successful at first. Based on this data, around 46% of the campaigns were either failed or canceled. Also, film & video, music, and theater seem to be the most popular and successful compared to other categories. The popularity is confirmed by the data, showing an outlier of 1066, where 694 of them were successful.
 
-## Bonus
+* Some limitations of the dataset are that the sample sizes are too small to make a confident conclusion about the success of Kickstarter campaigns in those specific categories. For instance, art books had a grand total of 20 but all 20 were canceled. If we were provided with 500 art book samples, it is safe to assume there would be 500 canceled.
 
-* Create a new sheet with 8 columns:
-
-  * `Goal`
-  * `Number Successful`
-  * `Number Failed`
-  * `Number Canceled`
-  * `Total Projects`
-  * `Percentage Successful`
-  * `Percentage Failed`
-  * `Percentage Canceled`
-
-* In the `Goal` column, create 12 rows with the following headers:
-
-  * Less than 1000
-  * 1000 to 4999
-  * 5000 to 9999
-  * 10000 to 14999
-  * 15000 to 19999
-  * 20000 to 24999
-  * 25000 to 29999
-  * 30000 to 34999
-  * 35000 to 39999
-  * 40000 to 44999
-  * 45000 to 49999
-  * Greater than or equal to 50000
-
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
-
-* Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
-
-* Add up each of the values in the `Number Successful`, `Number Failed`, and `Number Canceled` columns to populate the `Total Projects` column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
-
-* Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
-
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
-- - -
-
-© 2019 Trilogy Education Services
+* It would be interesting to see if there’s any correlation between the time of year and success rate by using the date created and ended conversions with a scatter plot. Also, we could use a bar chart that explicitly shows how many were successful, failed, canceled, and live.

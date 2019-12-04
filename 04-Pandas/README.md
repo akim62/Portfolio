@@ -2,7 +2,7 @@
 
 ## Background
 
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this project, you'll need to complete **two** Data Challenges: **Heroes of Pymoli** and **Academy of Py**.
+Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this project, you'll need to complete **two** Data Challenges: **Heroes of Pymoli** and **Academy of Py**, using Jupyter Notebook.
 
 ## Heroes of Pymoli
 
@@ -152,10 +152,4 @@ Your final report should include each of the following:
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-### Deployment
 
-* Download entire folder
-
-* Launch your Command Line (Git Bash or Terminal) and go into the corresponding folder
-
-* To access code within Jupyter Notebook, type in the Command Line: "jupyter notebook"

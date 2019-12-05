@@ -98,5 +98,5 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 * Type into Command Line: "python app.py"
 
-* Either click on available link or go to web browser and type "localhost:5000"
+* Either copy/paste available link or go to web browser and type "localhost:5000"
 

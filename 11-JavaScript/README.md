@@ -32,4 +32,8 @@ That's why we are hiring you. We need you to write code that will create a table
 
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
+### Deployment
 
+* Download entire folder from GitHub
+
+* Click on the "index.html" and you will be redirected locally to the project via your web browser

@@ -90,26 +90,13 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
-- - -
+## Deployment
 
-## Step 3 - Submission
+* Download entire folder from Github
 
-To submit your work to BootCampSpot, create a new GitHub repository and upload the following:
+* Navigate to the "app" folder inside the parent directory via Command Line (make sure "app.py" file is there)
 
-1. The Jupyter Notebook containing the scraping code used.
+* Type into Command Line: "python app.py"
 
-2. Screenshots of your final application.
+* Either click on available link or go to web browser and type "localhost:5000"
 
-3. Submit the link to your new repository to BootCampSpot.
-
-## Hints
-
-* Use Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
-
-* Use Pymongo for CRUD applications for your database. For this homework, you can simply overwrite the existing document each time the `/scrape` url is visited and new data is obtained.
-
-* Use Bootstrap to structure your HTML template.
-
-## Copyright
-
-© 2019 Trilogy Education Services. All Rights Reserved.

@@ -48,3 +48,7 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 - - -
 
+## Note
+
+* The code must be run through Zepl, but since there isn't an export method, the code was transferred to Jupyter Notebook for visual purposes
+

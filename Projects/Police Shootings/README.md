@@ -1,1 +1,6 @@
-# Project-1
+# Fatal Police Shootings
+
+![shooting.jpg](images/shooting.jpg)
+
+## Background
+

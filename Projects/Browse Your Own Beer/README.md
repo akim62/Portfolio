@@ -44,7 +44,7 @@
 
 ## Deployment
 
-* Copy and paste the link into your web browser to access application through Heroku: https://fierce-forest-56952.herokuapp.com/
+* Click on the link to access application through Heroku: https://fierce-forest-56952.herokuapp.com/
 
 * If you want to upload it locally, first download entire folder from GitHub
 

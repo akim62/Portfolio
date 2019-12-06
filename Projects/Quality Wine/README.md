@@ -1,2 +1,7 @@
-# Wine-quality-ML-Project
-Using Machine learning to predict the quality of Red and White wines based on datasets obtained from the UCI repositories
+# Quality Wine
+
+![wine.jpg](static/images/wine.jpg)
+
+## Background
+
+* Using the UCI Machine Learning Dataset

@@ -1,6 +1,6 @@
 # Fatal Police Shootings
 
-![shooting.jpg](shooting.jpg)
+![shooting.jpg](images/shooting.jpg)
 
 ## Background
 

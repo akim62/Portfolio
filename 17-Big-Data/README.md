@@ -44,8 +44,7 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 ## Resources
 
-[customer review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+[Customer Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 - - -
-
 

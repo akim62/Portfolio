@@ -1,6 +1,6 @@
 # Quality Wine
 
-![vinhoverdemap.jpg](static/images/rsz_vinhoverdemap.jpg)
+![winemapjpg](static/images/winemap.jpg)
 
 ## Background
 

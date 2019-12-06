@@ -1,6 +1,6 @@
 # Quality Wine
 
-![wine.png](static/images/wine.png)
+![vinhoverdemap.jpg](static/images/vinhoverdemap.jpg)
 
 ## Background
 

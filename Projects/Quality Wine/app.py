@@ -11,7 +11,7 @@ from flask import Flask, request, redirect, render_template, url_for, jsonify
 # redwinequality_model = load_model("redwinequality_model_trained.h5")
 
 from joblib import dump, load
-redwinequality_model = load('redwinedecisiontree.joblib') 
+redwinequality_model = load('trained-models/redwinedecisiontree.joblib') 
 
 app = Flask(__name__)
 

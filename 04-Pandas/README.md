@@ -1,9 +1,5 @@
 # Pandas, Pandas, Pandas
 
-## Background
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this project, you'll need to complete **two** Data Challenges: **Heroes of Pymoli** and **Academy of Py**, using Jupyter Notebook.
-
 ## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.png)

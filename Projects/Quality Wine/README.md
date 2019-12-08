@@ -4,15 +4,15 @@
 
 ## Background
 
-* Using the UCI Machine Learning Dataset, implemented various classifcation models to compare relative predictive accuracies:
+Using the UCI Machine Learning Dataset, implemented various classifcation models to compare relative predictive accuracies:
 
-    * Random Forest / Decision Tree
+ * Random Forest / Decision Tree
 
-    * Neural Networks
+ * Neural Networks
 
-    * K Nearest Neighbors (KNN)
+ * K Nearest Neighbors (KNN)
 
-    * Support Vector Machine (SVM)
+ * Support Vector Machine (SVM)
 
 * Implemented the best fitting model, based on accuracy, into an interactive web application using Python's Flask app.
 

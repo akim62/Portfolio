@@ -4,7 +4,7 @@
 
 ## Background
 
-* Investigated fatal police shooting data from 2015 to 2019 in the United States and extrapolated interesting insights through Jupyter Notebook using Python's Matplotlib visualization techniques
+Investigated fatal police shooting data from 2015 to 2019 in the United States and extrapolated interesting insights through Jupyter Notebook using Python's Matplotlib visualization techniques
 
 ## Process
 

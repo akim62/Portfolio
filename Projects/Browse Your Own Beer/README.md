@@ -4,17 +4,17 @@
 
 ## Background
 
-* Created a full-stack interactive web application that explored various brewery and beer data from openbeerdb.com. The user is able to navigate through all of the various pages:
+Created a full-stack interactive web application that explored various brewery and beer data from openbeerdb.com. The user is able to navigate through all of the various pages:
 
-    * Home 
+ * Home 
 
-    * Beer Categories
+ * Beer Categories
 
-    * Brewery Map
+ * Brewery Map
 
-    * Beer Guide
+ * Beer Guide
 
-    * About Us
+ * About Us
 
 ## Languages
 
